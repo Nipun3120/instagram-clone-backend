@@ -3,3 +3,5 @@
 
 # local env files
 /config/config.env
+
+.env
